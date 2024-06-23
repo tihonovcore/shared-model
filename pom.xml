@@ -10,9 +10,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>sharedmodel-core</module>
-        <module>sharedmodel-maven-plugin</module>
-        <module>sharedmodel-test</module>
+        <module>shared-model-annotation</module>
+        <module>shared-model-maven-plugin</module>
+        <module>shared-model-plugin-test</module>
+        <module>shared-model-instrumentation</module>
     </modules>
 
     <properties>
