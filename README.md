@@ -35,7 +35,8 @@ and all will be taken from hidden field `_unusedFields`.
 
 ## How it works
 
-It works thanks to bytecode instrumentation via asm ow2 library. And we get code like this:
+It works thanks to bytecode instrumentation via asm ow2 library (https://asm.ow2.io/asm4-guide.pdf). 
+And we get code like this:
 ```java
 import java.util.HashMap;
 
